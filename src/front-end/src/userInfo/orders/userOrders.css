@@ -1,0 +1,37 @@
+.orders-user{
+    position: relative;
+    left: 500px;
+    top: 100px;
+    width: 850px;
+    height: 60px;
+}
+
+.order-name-column{
+    position: absolute;
+    left: 20px;
+}
+
+.order-make-column{
+    position: absolute;
+    left: 127px;
+}
+
+.order-products-count-column{
+    position: absolute;
+    left: 450px;
+}
+
+.order-price-column{
+    position: absolute;
+    left: 620px;
+}
+
+.user-orders-title{
+    position: absolute;
+    left: 775px;
+}
+
+.user-order-delete-btn{
+    position: absolute;
+    left: 820px;
+}

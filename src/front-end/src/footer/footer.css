@@ -1,0 +1,92 @@
+.footer{
+    position: absolute;
+    top: 1200px;
+}
+
+.hr-footer {
+    position: absolute;
+    width: 1863px;
+    border-top: solid #ccc 1px;
+    border-top-style: dotted;
+    top: -70px;
+}
+
+.news-footer-title{
+    position: absolute;
+    color: black;
+    left: 300px;
+    font-size: 15px;
+    top: 10px;
+}
+
+.news-icon{
+    position: absolute;
+    color: black;
+    left: 270px;
+    top: 15px;
+}
+
+.business-footer-title{
+    position: absolute;
+    color: black;
+    left: 299px;
+    font-size: 15px;
+    top: 53px;
+}
+
+
+.business-icon{
+    position: absolute;
+    color: black;
+    left: 269px;
+    top: 57px;
+}
+
+.service-icon{
+    position: absolute;
+    color: black;
+    left: 270px;
+    top: -26px;
+}
+
+.service-footer-title{
+    position: absolute;
+    color: black;
+    left: 300px;
+    font-size: 15px;
+    top: -32px;
+}
+
+.comment-icon{
+    position: absolute;
+    color: black;
+    left: 269px;
+    top: 100px;
+}
+
+.comment-footer-title{
+    position: absolute;
+    color: black;
+    left: 298px;
+    font-size: 15px;
+    top: 95px;
+}
+
+.info-contact{
+    position: absolute;
+    color: black;
+    left: 1400px;
+    font-size: 15px;
+    top: -40px;
+}
+
+.follow-us{
+    position: relative;
+    left: 840px;
+    top: -40px;
+}
+
+.app-footer{
+    position: absolute;
+    left: 20px;
+}

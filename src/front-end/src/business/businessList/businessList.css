@@ -1,0 +1,54 @@
+.header-business{
+    background: rgb(10,117,148);
+    background: radial-gradient(circle, rgba(10,117,148,1) 55%, rgba(18,170,227,1) 84%, rgba(31,180,246,1) 88%);
+}
+
+.footer-business{
+    position: relative;
+    margin-top: -150px;
+}
+
+.footer-business-1{
+    position: relative;
+    margin-top: -475px;
+}
+
+.business-title{
+    position: absolute;
+    left: 670px;
+    top: 200px;
+}
+
+.main-img-business{
+    -webkit-filter: blur(3px);
+    position: absolute;
+    left: 110px;
+    top: 100px;
+    height: 910px;
+    width: 1650px;
+}
+
+div.add-form-business{
+    position: absolute;
+    left: 1300px;
+    top: 450px;
+}
+
+.business-have-not{
+    position: absolute;
+    left: 550px;
+    top: 600px;
+    font-size: 40px;
+    text-align: center;
+}
+
+.business-delete-btn{
+    position: absolute;
+    left: 1150px;
+}
+
+.business-edit-btn{
+    position: relative;
+    left: 690px;
+    top: 292px;
+}

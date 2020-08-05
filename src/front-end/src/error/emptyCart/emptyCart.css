@@ -1,0 +1,13 @@
+.img-empty-cart{
+    position: absolute;
+    width: 1050px;
+    left: 400px;
+    top: 50px;
+}
+
+.empty-text {
+    position: absolute;
+    left: 230px;
+    top: 750px;
+    font-size: 40px;
+}

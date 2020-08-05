@@ -1,0 +1,25 @@
+.preOrder-login{
+    position: absolute;
+    left: -500px;
+    font-size: 40px;
+    top: -10px;
+}
+
+.preOrder-register{
+    position: absolute;
+    left: 350px;
+    font-size: 10px;
+    top: 190px;
+}
+
+.news-users-preOrder{
+    position: absolute;
+    left: 1050px;
+    top: 150px;
+}
+
+.five-lv-sale-discount{
+    position: absolute;
+    top: 700px;
+    left: 285px;
+}

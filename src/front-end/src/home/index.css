@@ -1,0 +1,17 @@
+div.home {
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0 0;
+    height: 850px;
+}
+
+.home-footer {
+    position: relative;
+    margin-top: -1000px;
+}
+
+.header-home {
+    font-family: "Roboto", serif;
+}
+

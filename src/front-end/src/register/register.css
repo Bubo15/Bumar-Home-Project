@@ -1,0 +1,17 @@
+.container-register {
+    position: absolute;
+    left: 680px;
+    background-color: white;
+    top: 170px;
+    padding: 50px;
+    width: 500px;
+}
+
+.avatar {
+    left: 155px;
+    top: -20px;
+}
+
+.title-reg{
+    text-align: center;
+}

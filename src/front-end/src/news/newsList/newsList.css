@@ -1,0 +1,57 @@
+.header-news{
+    background: rgb(148,10,10);
+    background: radial-gradient(circle, rgba(148,10,10,1) 55%, rgba(241,22,50,1) 84%, rgba(246,31,59,1) 88%);
+}
+
+.news-title{
+    position: absolute;
+    left: 860px;
+    top: 200px;
+}
+
+.news-footer{
+    position: relative;
+    margin-top: -330px;
+}
+
+div.add-form-news{
+    position: absolute;
+    left: 1300px;
+    top: 450px;
+}
+
+div.edit-form-news{
+    position: absolute;
+    left: 1300px;
+    top: 450px;
+}
+
+.delete-icon-news{
+    position: relative;
+    left: 1150px;
+    top: 2px;
+
+}
+
+.edit-icon-news{
+    position: relative;
+    left: 700px;
+    top: 262px;
+}
+
+.background-img-news{
+    position: absolute;
+    top: 500px;
+}
+.background-img-news-1{
+    position: absolute;
+    top: 96px;
+    left: 1280px;
+    width: 500px;
+}
+
+.not-news-title{
+    position: absolute;
+    left: 623px;
+    top: 350px;
+}

@@ -1,0 +1,56 @@
+.comment-header{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ4NvfbX4bschH0Tu1BFYkLMf4Vul6mAgGz5A&usqp=CAU");
+}
+
+.comment-footer{
+    position: relative;
+    margin-top: -290px;
+}
+
+.comment-title{
+    position: absolute;
+    left: 840px;
+    top: 130px;
+}
+
+.comment-description-column{
+    position: absolute;
+    width: 890px;
+    word-wrap: break-word;
+    left: 80px;
+    top: 2px;
+}
+
+.comment-username-column{
+    position: absolute;
+    left: 20px;
+    top: -5px;
+}
+
+.comments{
+    position: relative;
+    left: 450px;
+    top: 120px;
+    width: 1010px;
+    height: 60px;
+}
+
+.comment-delete-btn{
+    position: absolute;
+    left: 985px;
+}
+
+.edit-delete-btn{
+    position: absolute;
+    left: 985px;
+    top: 20px;
+}
+
+.img-comment{
+    -webkit-filter: blur(2px);
+    position: absolute;
+    top: 120px;
+    left: 150px;
+    width: 1600px;
+    height: 880px;
+}

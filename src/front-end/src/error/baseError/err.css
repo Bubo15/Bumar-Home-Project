@@ -1,0 +1,15 @@
+body.err-class {
+    background-image: url("./err404.png");
+    position: relative;
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position: 0 0;
+    height: 970px;
+}
+
+.btn-err {
+    width: 350px !important;
+    height: 70px !important;
+    left: 800px;
+    top: 430px;
+}

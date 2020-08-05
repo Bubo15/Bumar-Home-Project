@@ -1,0 +1,10 @@
+.title {
+    transform: translate(15%, -50%);
+    display: -webkit-inline-flex;
+    color: black;
+}
+
+.icon-siteName{
+    position: absolute;
+    top: 12px;
+}

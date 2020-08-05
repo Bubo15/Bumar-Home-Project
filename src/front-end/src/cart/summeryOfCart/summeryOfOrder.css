@@ -1,0 +1,12 @@
+.summary-order{
+    position: absolute;
+    left: 1450px;
+    top: 250px;
+}
+
+.all-items-summery-order{
+    position: absolute;
+    left: 75px;
+    font-size: 14px;
+    top: 45px;
+}

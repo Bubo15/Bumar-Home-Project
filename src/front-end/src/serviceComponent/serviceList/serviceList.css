@@ -1,0 +1,35 @@
+.header-service{
+    background: rgb(10,117,148);
+    background: radial-gradient(circle, rgba(10,117,148,1) 55%, rgba(18,170,227,1) 84%, rgba(31,180,246,1) 88%);
+}
+
+.service-footer{
+    position: relative;
+    margin-top: -600px;
+}
+
+.service-title{
+    position: absolute;
+    left: 860px;
+    top: 200px;
+}
+
+div.add-form-service{
+    position: absolute;
+    left: 1300px;
+    top: 450px;
+}
+
+.main-img-service{
+    position: absolute;
+    left: 240px;
+    top: 130px;
+    width: 1400px;
+}
+
+.delete-icon-service{
+    position: relative;
+    left: 1080px;
+    top: 210px;
+
+}

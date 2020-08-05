@@ -1,0 +1,41 @@
+.img-service-details{
+    position: relative;
+    left: 700px;
+    width: 500px;
+    top: 20px;
+}
+
+.name-service-details{
+    position: relative;
+    text-align: center;
+    top: 20px;
+}
+
+
+.description-service-details{
+    position: relative;
+    text-align: center;
+    top: 50px;
+}
+
+.footer-service-details{
+    position: absolute;
+    top: -300px;
+    width: 1878px;
+}
+
+.header-service-details{
+    background: rgb(10,117,148);
+    background: radial-gradient(circle, rgba(10,117,148,1) 55%, rgba(18,170,227,1) 84%, rgba(31,180,246,1) 88%);
+}
+
+.btn-service-details{
+    position: absolute;
+    left: 855px;
+    top: 100px;
+}
+
+.edit-form-service-details{
+    position: absolute;
+    top: 190px;
+}

@@ -1,0 +1,13 @@
+.business-data{
+    position: relative;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 10);
+    max-width: 350px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    top: 200px;
+}
+
+.img-business{
+    max-width: 300px;
+}

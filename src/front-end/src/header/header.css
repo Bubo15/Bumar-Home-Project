@@ -1,0 +1,29 @@
+.header {
+    font-family: "Roboto", serif;
+    font-size: 0.970rem;
+    padding: 5px;
+}
+
+.icon-user{
+    position: absolute;
+    top: 10px;
+    font-size: 20px;
+    color: black;
+    left: 1470px;
+}
+
+.user-title-icon{
+    position: absolute;
+    color: black;
+    left: 1500px;
+    top: 7px;
+    font-size: 15px;
+}
+
+
+.home-icon-siteName{
+    position: absolute;
+    color: black;
+    left: 280px;
+    top: 15px;
+}

@@ -1,0 +1,41 @@
+.main-add-news{
+    position: relative;
+    left: 100px;
+}
+
+.input-file {
+    width: 10px;
+    height: 10px;
+    opacity: 0;
+    overflow: hidden;
+    position: absolute;
+    z-index: -1;
+}
+
+.input-file + label {
+    background: dodgerblue;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-family: 'Rubik', sans-serif;
+    font-size: inherit;
+    font-weight: 500;
+    margin-bottom: 1rem;
+    outline: none;
+    padding: 1rem 50px;
+    position: relative;
+    transition: all 0.3s;
+    vertical-align: middle;
+}
+
+.input-file:focus + label,
+.input-file + label:hover {
+    background-color: red;
+}
+
+.input-file + label {
+    cursor: pointer; /* "hand" cursor */
+}
+

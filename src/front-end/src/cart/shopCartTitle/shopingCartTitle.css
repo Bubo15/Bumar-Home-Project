@@ -1,0 +1,33 @@
+.shop-icon{
+    position: absolute;
+    top: 12px;
+    font-size: 20px;
+    color: black;
+    left: 1570px;
+}
+
+
+.shop-title-icon{
+    position: absolute;
+    color: black;
+    left: 1600px;
+    top: 7px;
+    font-size: 15px;
+}
+
+.shop-icon-1{
+    position: absolute;
+    top: 12px;
+    font-size: 20px;
+    color: black;
+    left: 1680px;
+}
+
+
+.shop-title-icon-1{
+    position: absolute;
+    color: black;
+    left: 1710px;
+    top: 7px;
+    font-size: 15px;
+}
