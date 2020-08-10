@@ -39,6 +39,8 @@ public class ErrorConstants {
     public static final String PRODUCT_ID_NOT_FOUND = "Product ID Not Found!";
     public static final String PRODUCT_ALREADY_EXIST_IN_THIS_SUBCATEGORY = "Product already exist in this subcategory!";
     public static final String GIVEN_PRODUCT_DESCRIPTION_KEY_NOT_FOUND = "Given product description key Not Found!";
+    public static final String PRODUCT_ALREADY_EXIST = "Product already exist";
+
 
     public static final String ORDER_PRODUCT_EMPTY_KEY_OR_VALUE = "Order product can\'t has empty key or value";
     public static final String ORDER_ID_NOT_FOUND = "Order Id Not Found!";
