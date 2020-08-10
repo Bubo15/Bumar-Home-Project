@@ -257,6 +257,9 @@ public class ProductServiceImpl implements ProductService {
         BaseProduct product = this.getProductById(id);
 
         if (!productEditBindingModel.getName().isEmpty()) {
+              if (!product.getName().equalsIgnoreCase(productEditBindingModel.getName())){
+                throw new AlreadyExistException(ErrorConstants.PRODUCT_ALREADY_EXIST);
+            }
             product.setName(productEditBindingModel.getName());
         }
 
